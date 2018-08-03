@@ -12,7 +12,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 		- [Move and Backup](#move-and-backup)
     - [Commandline](#commandline)
   - [SEO](#seo)
-	  - [Marketing](#marketing)
+    - [Marketing](#marketing)
 		- [Google Analytics](#google-analytics)
 		- [SEO Plugins](#seo-plugins)
   - [MobileAPP](#mobileapp)
