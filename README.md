@@ -22,7 +22,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
     - [Amazon](#amazon)
     - [Walmart](#Walmart)
   - [Tools](#tools)
-    - [Featured Plugins](#featured-plugins)
+    - [HTTPS](#https)
     - [Package Security](#package-security)
     - [DEV](#dev)
   - [Resources](#resources)
@@ -83,13 +83,23 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 ## Tools
 
-#### Featured Plugins
-*Plugins that have a chance to make it into WordPress core*
+#### Data
+* [ISO 3166](https://github.com/umpirsky/country-list) -  List of all countries with names and ISO 3166-1 codes in all languages and data formats.
+* [BinList](https://github.com/binlist/data) - The first 6 or 8 digits of a payment card number (credit cards, debit cards, etc.) are known as the Issuer Identification Numbers (IIN), previously known as Bank Identification Number (BIN). These identify the institution that issued the card to the card holder.
+* [CCV](https://github.com/PawelDecowski/jquery-creditcardvalidator) - jQuery credit card validation and detection plugin.
+
+#### HTTPS
+* [free ssl](https://letsencrypt.org/) - Let’s Encrypt is a free, automated, and open Certificate Authority.
+
 #### Package Security
-*[npm](https://github.com/nodesecurity/nsp)
-*[pip](https://github.com/pyupio/safety)
-*[composer](https://github.com/sensiolabs/security-checker)
+* [npm](https://github.com/nodesecurity/nsp) - for nodejs
+* [pip](https://github.com/pyupio/safety) - for python
+* [composer](https://github.com/sensiolabs/security-checker) - for php
+
 #### DEV
+* [csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
+* [mycli](https://github.com/dbcli/myclia) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+* [adminer](https://github.com/vrana/adminer) - Database management in a single PHP file.
 
 ## SEO
 #### Marketing
@@ -104,6 +114,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Redirection](https://wordpress.org/plugins/redirection/) - Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files.
 * [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) - Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast SEO plugin.
 * [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - This plugin will monitor your blog looking for broken links and let you know if any are found.
+
+#### SEO Tools
+* [SEO Analyzer](https://github.com/sethblack/python-seo-analyzer) - An SEO tool that analyzes the structure of a site, crawls the site, count words in the body of the site and warns of any general SEO related issues.
+* [Google Trends](https://github.com/pat310/google-trends-api) - An API layer on top of google trends.
 
 
 ## MobileAPP
