@@ -90,6 +90,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 #### HTTPS
 * [free ssl](https://letsencrypt.org/) - Let’s Encrypt is a free, automated, and open Certificate Authority.
+* [online ssl apply](https://github.com/analogic/lemanager) - Simple containerized web application for managing, issuing certificates (and email alerting) from Let's Encrypt certificate authority.
+* [PHP ACME client](https://github.com/analogic/lescript) - Simplified PHP ACME client.
+* [certbot python](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
 
 #### Package Security
 * [npm](https://github.com/nodesecurity/nsp) - for nodejs
@@ -105,6 +108,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 #### Marketing
 * [Leads](https://wordpress.org/support/plugin/leads/) - Provides in-depth visitor tracking and list collection + segmentation tools.
 * [Calls to Action](https://wordpress.org/support/plugin/cta/) - Provides template powered ad placement system for calls to action, sponsored adverts, and data collection efforts.
+* [Responsive Email Template](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy.
 
 #### Google Analytics
 * [Analytify](https://wordpress.org/plugins/wp-analytify/) - Google Analytics Dashboard for WordPress – by Analytify makes simple and complete Google Analytics for everywhere in WordPress (posts, pages and custom post types)
@@ -127,6 +131,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 ## ODOO
 *odoo community edition*
+* [EDI](https://github.com/unipartdigital/odoo-edi) - Odoo module for Electronic Data Interchange (EDI)
+* [ODOO Connector](https://github.com/OCA/connector) - Odoo generic connector framework (jobs queue, asynchronous tasks, channels)
 
 ## 3rd Platform
 *From business small to big that the Ecommerce Store will be built from eBay to Amazon, and then to Walmart*
