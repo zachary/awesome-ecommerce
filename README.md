@@ -4,7 +4,7 @@ A brief description for how to build Ecommerce business platform free and fast a
 Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python) and [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) and [awesome-react-native](https://github.com/jondot/awesome-react-native).
 
 - [Awesome Ecommerce](#awesome-ecommerce)
-  - [Wordpress](#wordpress)
+  - [Wordpress+WooCommerce](#wordpress+woocommerce)
     - [Themes and Framework](#themes-and-framework)
     - [Plugins](#plugins)
     - [Woocommerce](#woocommerce)
@@ -31,9 +31,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
     - [Books](#books)
   - [Contributing](#contributing)
 
-## Wordpress
+## Wordpress+WooCommerce
 
 * [WordPress on GitHub](https://github.com/WordPress/WordPress) - WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags!
+* [WooCommerce on GitHub](https://github.com/woocommerce/woocommerce) - An open source eCommerce plugin for WordPress.
 
 #### Themes and Framework
 
@@ -41,14 +42,12 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [WP MVC](http://wpmvc.org/) - WP MVC is an MVC framework that makes WordPress development faster, easier, and more elegant. It is a full-fledged framework with conventions that are similar to those of Ruby on Rails and CakePHP
 
 #### Plugins
-*free plugins*
+*must have the free plugins*
 
 #### Woocommerce
 *Must have core module with often updated*
 
-* [WooCommerce](https://wordpress.org/plugins/woocommerce/) - Transform your WordPress website into a thoroughbred eCommerce store. Delivering enterprise-level quality and features, backed by a name you can trust. Say "hello" to the WooCommerce eCommerce plugin.
-* [Awesome Woocommerce](https://github.com/lukecav/awesome-woocommerce) - FYI.
-
+* [Awesome Woocommerce](https://github.com/lukecav/awesome-woocommerce) - Plugins and code snippets to improve your WooCommerce store.
 
 #### Security and Management
 *Antispam, prevent brute force, ecc*
