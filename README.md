@@ -43,6 +43,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 #### Plugins
 *must have the free plugins*
+* [status and order tracking](https://wordpress.org/plugins/order-tracking/) - Order tracking and status tracking software that allows you to quickly and easily manage the status of your orders, projects, shipments, or any other item, by posting order tracking updates or tickets that can be viewed through the front end of your WordPress site, for easy order management. All this is done via a series of easy-to-use order shortcodes.
+* [Coupon Creator](https://wordpress.org/plugins/coupon-creator/) - Create your own coupon with the Coupon Creator for WordPress or upload an image of a coupon instead.
+* [customer reviews](https://wordpress.org/plugins/customer-reviews-woocommerce/) - Customer Reviews for WooCommerce plugin helps you get more sales with social proof. Encourage your customers leave product reviews and increase conversion of your shop. This WooCommerce review plugin enables you to set up automatic review reminders for customers who recently purchased a product from your shop. Reminder emails are sent to your customers inviting them to review the recent product(s) they purchased.
+* [](https://wordpress.org/plugins/ecommerce-product-catalog/) - eCommerce Product Catalog is a beautiful, easy-to-use, 100% responsive and free product catalog plugin for WordPress ecommerce or simple product catalog website with the request a quote functionality.
 
 #### Woocommerce
 *Must have core module with often updated*
@@ -99,7 +103,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [composer](https://github.com/sensiolabs/security-checker) - for php
 
 #### DEV
-* [csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats.
+* [csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats. Here is the command for imported from csv file to mysql DB as below:
+```csvsql -d , -q \" -e ISO-8859-1 --db mysql://user:passwod@host:port/dbname --insert name.csv```
 * [mycli](https://github.com/dbcli/myclia) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 * [adminer](https://github.com/vrana/adminer) - Database management in a single PHP file.
 
