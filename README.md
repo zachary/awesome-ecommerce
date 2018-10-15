@@ -107,12 +107,23 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [pip](https://github.com/pyupio/safety) - for python
 * [composer](https://github.com/sensiolabs/security-checker) - for php
 
+#### Malware Check
+* [clamav](https://www.clamav.net) - clamscan -r /
+* [rkhunter](http://rkhunter.sourceforge.net) - rkhunter --check
+
 #### DEV
 * [csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats. Here is the command for imported from csv file to mysql DB as below:
 
 `csvsql -d , -q \" -e ISO-8859-1 --db mysql://user:passwod@host:port/dbname --insert name.csv`
 * [mycli](https://github.com/dbcli/myclia) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 * [adminer](https://github.com/vrana/adminer) - Database management in a single PHP file.
+* [Termgraph](https://github.com/mkaz/termgraph) - A python command-line tool which draws basic graphs in the terminal.
+* [PHP Security]() 
+`disable_functions =exec,passthru,shell_exec,system,proc_open,popen,curl_exec,curl_multi_exec,parse_ini_file,show_source
+allow_url_fopen=Off
+allow_url_include=Off
+`
+
 
 ## SEO
 #### Marketing
@@ -159,6 +170,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 #### Walmart
 * [walmart API](https://developer.walmart.com/#/apicenter/overview) - Marketplace Sellers: go to http://seller.walmart.com to login to the seller center to get your Consumer ID and Private Key.
 
+## EDI
+* [EDI Github Resources](https://github.com/michaelachrisco/Electronic-Interchange-Github-Resources) - Electronic Interchage Github Resources
+
 ## Resources
 
 #### Websites
@@ -196,3 +210,9 @@ We welcome any contributions to the this awesome list! Please send us a pull req
 
 * For contribution, [fork the project](https://github.com/zachary/awesome-ecommerce/fork)
 * To report a broken link or want to remove one, [use issues](https://github.com/zachary/awesome-ecommerce/issues)
+
+
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=zacharich@gmail.com&lc=US&item_name=GITHUB+BUY+COFFEE&no_note=0&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
