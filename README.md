@@ -103,9 +103,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [certbot python](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
 
 #### Package Security
-* [npm](https://github.com/nodesecurity/nsp) - for nodejs
-* [pip](https://github.com/pyupio/safety) - for python
-* [composer](https://github.com/sensiolabs/security-checker) - for php
+* [nsp](https://github.com/nodesecurity/nsp) - for nodejs
+* [safety](https://github.com/pyupio/safety) - for python
+* [security-checker](https://github.com/sensiolabs/security-checker) - for php
 
 #### Malware Check
 * [clamav](https://www.clamav.net) - clamscan -r /
@@ -115,6 +115,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [csvkit](https://github.com/wireservice/csvkit) - A suite of utilities for converting to and working with CSV, the king of tabular file formats. Here is the command for imported from csv file to mysql DB as below:
 
 `csvsql -d , -q \" -e ISO-8859-1 --db mysql://user:passwod@host:port/dbname --insert name.csv`
+`csvsql yelp.csv --db sqlite:///yelp.sqlite --insert --overwrite --tables yelp`
 * [mycli](https://github.com/dbcli/myclia) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 * [adminer](https://github.com/vrana/adminer) - Database management in a single PHP file.
 * [Termgraph](https://github.com/mkaz/termgraph) - A python command-line tool which draws basic graphs in the terminal.
@@ -122,7 +123,15 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 `disable_functions =exec,passthru,shell_exec,system,proc_open,popen,curl_exec,curl_multi_exec,parse_ini_file,show_source
 allow_url_fopen=Off
 allow_url_include=Off
-`
+* [Datetables](https://datatables.net/) - DataTables is a plug-in for the jQuery Javascript library. It is a highly flexible tool, build upon the foundations of progressive enhancement, that adds all of these advanced features to any HTML table.
+* [form-manager](https://github.com/oscarotero/form-manager) - FormManager Note: this is the documentation of FormManager 6.x For v5.x version Click here Installation: This package requires PHP>=7.1 and is available on Packagist
+* [python fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+* [php datatables](https://github.com/n1crack/datatables) - PHP Library to handle server-side processing for Datatables, in a fast and simple way
+* [odoo client lib](https://github.com/odoo/odoo-client-lib) - The Odoo Client Library is a Python3 library to communicate with an Odoo Server using its web services in an user-friendly way. It was created for those that doesn't want to code XML-RPC calls on the bare metal. It handles XML-RPC as well as JSON-RPC protocol and provides a bunch of syntaxic sugar to make things a lot easier
+* [scrapy + splash](https://github.com/scrapy-plugins/scrapy-splash) - This library provides Scrapy and JavaScript integration using Splash.
+* [php CSV](https://github.com/thephpleague/csv) - Csv is a simple library to ease CSV parsing, writing and filtering in PHP. The goal of the library is to be powerful while remaining lightweight, by utilizing PHP native classes whenever possible.
+
+
 
 
 ## SEO
