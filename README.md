@@ -53,6 +53,20 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Delete Expired Transients](https://wordpress.org/plugins/delete-expired-transients-littlebizzy) - Deletes all expired transients upon activation and on a daily basis thereafter via WP Cron to maintain a cleaner database and improve performance.
 * [Remove Query Strings](https://wordpress.org/plugins/remove-query-strings-littlebizzy) - Removes all query strings from static resources meaning that proxy servers and beyond can better cache your site content (plus, better SEO scores).
 
+* [wordpress-seo \
+shared-counts \
+wp-mail-smtp \
+insert-headers-and-footers \
+tablepress \
+woocommerce \
+broken-link-checker \
+wp-super-cache \
+all-in-one-wp-security-and-firewall \
+http-headers \
+easy-pricing-tables \
+contact-form-7 \
+shortcodes-ultimate \]
+
 #### Woocommerce
 *Must have core module with often updated*
 
@@ -130,9 +144,19 @@ allow_url_include=Off
 * [odoo client lib](https://github.com/odoo/odoo-client-lib) - The Odoo Client Library is a Python3 library to communicate with an Odoo Server using its web services in an user-friendly way. It was created for those that doesn't want to code XML-RPC calls on the bare metal. It handles XML-RPC as well as JSON-RPC protocol and provides a bunch of syntaxic sugar to make things a lot easier
 * [scrapy + splash](https://github.com/scrapy-plugins/scrapy-splash) - This library provides Scrapy and JavaScript integration using Splash.
 * [php CSV](https://github.com/thephpleague/csv) - Csv is a simple library to ease CSV parsing, writing and filtering in PHP. The goal of the library is to be powerful while remaining lightweight, by utilizing PHP native classes whenever possible.
-
-
-
+* [Hasty](https://www.wp-hasty.com/) - Hasty is the easiest and fastest code generator for WordPress snippets.
+* [GenerateWP](https://generatewp.com/) - The easiest and fastest way to create custom and high quality code for your WordPress project using the latest WordPress coding standards and API's.
+* [CMB2](https://cmb2.io/) - CMB2 is a developer’s toolkit for building metaboxes, custom fields, and forms for WordPress that will blow your mind. Easily manage meta for posts, terms, users, comments, or create custom option pages.
+* [Redux](https://reduxframework.com/) - Built on the WordPress Settings API, Redux supports a multitude of field types as well as custom error handling, custom field & validation types, and import/export functionality.
+* [Titan Framework](http://www.titanframework.net/) - Create Settings for Your WordPress Themes & Plugins with Just a Few Lines of Code.
+* [WordPress Settings Framework](https://github.com/jamesckemp/WordPress-Settings-Framework) - A settings framework for the WordPress settings API
+* [Admin Page Framework](https://github.com/michaeluno/admin-page-framework) - Admin Page Framework is an OOP based open source WordPress library that facilitates theme and plugin development.
+* [Unyson](https://github.com/ThemeFuse/Unyson) - Unyson is a framework for WordPress that facilitates the development of a theme.
+* [WP Setting page Generator](http://wpsettingsapi.jeroensormani.com/) - Easily create your own WordPress Settings page according to WP standards. Fill in two steps and get your personal code!
+* [WP option page generator](https://jeremyhixon.com/tool/wordpress-option-page-generator/) - A PHP class for building WordPress Option Pages. Uses multi-dimensional associative arrays to try and make the process of adding option pages a little easier to map out and use.
+* [docker mailserver](https://github.com/tomav/docker-mailserver) - A fullstack but simple mail server (smtp, imap, antispam, antivirus...). Only configuration files, no SQL database. Keep it simple and versioned. Easy to deploy and upgrade.
+* [docker wordpress](https://github.com/evertramos/docker-wordpress-letsencrypt) - Using Wordpress with SSL enabled integrated with NGINX proxy and autorenew LetsEncrypt certificates
+* [rest api lumen](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework.
 
 ## SEO
 #### Marketing
