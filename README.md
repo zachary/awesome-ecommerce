@@ -65,7 +65,8 @@ all-in-one-wp-security-and-firewall \
 http-headers \
 easy-pricing-tables \
 contact-form-7 \
-shortcodes-ultimate \]
+shortcodes-ultimate \
+pods \]
 
 #### Woocommerce
 *Must have core module with often updated*
@@ -157,6 +158,8 @@ allow_url_include=Off
 * [docker mailserver](https://github.com/tomav/docker-mailserver) - A fullstack but simple mail server (smtp, imap, antispam, antivirus...). Only configuration files, no SQL database. Keep it simple and versioned. Easy to deploy and upgrade.
 * [docker wordpress](https://github.com/evertramos/docker-wordpress-letsencrypt) - Using Wordpress with SSL enabled integrated with NGINX proxy and autorenew LetsEncrypt certificates
 * [rest api lumen](https://github.com/hasib32/rest-api-with-lumen) - A RESTful API boilerplate for Lumen micro-framework.
+* [puphpeteer](https://github.com/nesk/puphpeteer) - A Puppeteer bridge for PHP, supporting the entire API. Based on Rialto, a package to manage Node resources from PHP.
+* [isotope mail](https://github.com/manusa/isotope-mail) - Microservice based webmail client built with ReactJS and Spring.
 
 ## SEO
 #### Marketing
@@ -196,9 +199,11 @@ allow_url_include=Off
 * [eBay API Python](https://github.com/timotheus/ebaysdk-python) - trading, finding, shopping, merchandising API
 * [eBay API PHP](https://github.com/davidtsadler/ebay-sdk-php) - trading, finding, shopping, merchandising API
 * [eBay API Node](https://github.com/benbuckman/nodejs-ebay-api) - trading, finding, shopping, merchandising API
+* [eBay RESTful APIs](https://developer.ebay.com/docs) - From authentication (OAuth) to error handling, a guide to working with eBay's RESTful APIs.
 
 #### Amazon
 * [MWS API](https://developer.amazonservices.com/) - Feeds Reports , Finances, Fulfillment Inbound Shipment, Fulfillment Inventory, Fulfillment Outbound Shipment, Merchant Fulfillment, Off-Amazon Payments, Orders, Products, Recommendations, Sellers, Subscriptions API
+* [amazon mws php](https://github.com/meertensm/amazon-mws) - Interaction with the Amazon api for vendors called MWS 
 
 #### Walmart
 * [walmart API](https://developer.walmart.com/#/apicenter/overview) - Marketplace Sellers: go to http://seller.walmart.com to login to the seller center to get your Consumer ID and Private Key.
