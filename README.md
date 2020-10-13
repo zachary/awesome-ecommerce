@@ -209,7 +209,7 @@ allow_url_include=Off
 * [walmart API](https://developer.walmart.com/#/apicenter/overview) - Marketplace Sellers: go to http://seller.walmart.com to login to the seller center to get your Consumer ID and Private Key.
 
 ## EDI
-* [EDI Github Resources](https://github.com/michaelachrisco/Electronic-Interchange-Github-Resources) - Electronic Interchage Github Resources
+* [EDI Github Resources](https://github.com/michaelachrisco/Electronic-Interchange-Github-Resources) - Electronic Interchange Github Resources
 
 ## Resources
 
