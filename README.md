@@ -234,7 +234,7 @@ allow_url_include=Off
 * [Awesome WordPress Developer Tips](https://github.com/Mte90/awesome-wordpress-developer-tips) - Curated list that contain very awesome and ready code, snippets or examples without libraries or external packages made it for developers.
 * [Powered By WordPress](https://github.com/minthemiddle/powered-by-wordpress) - Curated list of TOP 1M Alexa ranking websites using WordPress, sorted by category and ranking.
 * [Best WordPress Hosting Providers Compared](https://thishosting.rocks/best-wordpress-hosting/) - Detailed article/comparison of the best WordPress hosting providers.
-
+* [Awesome Hybris](https://github.com/eminyagiz42/awesome-hybris) - A curated list of delightful SAP Commerce (formerly Hybris) resources. SAP Commerce is an e-commerce platform using Java, based on Spring MVC framework. The useful resources for SAP Commerce Developers are below.
 
 ## Books
 
