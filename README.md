@@ -179,7 +179,9 @@ allow_url_include=Off
 #### SEO Tools
 * [SEO Analyzer](https://github.com/sethblack/python-seo-analyzer) - An SEO tool that analyzes the structure of a site, crawls the site, count words in the body of the site and warns of any general SEO related issues.
 * [Google Trends](https://github.com/pat310/google-trends-api) - An API layer on top of google trends.
-
+* [Prerender](https://prerender.io/) – Prerender serves 100% cached versions of your web pages to search engine bots that have problems executing JavaScript.
+* [Keyword.com](https://keyword.com/) – Track, pinpoint and validate your SEO efforts with real-time accurate rank tracking.
+* [Seobility](https://www.seobility.net/en/) - An all-in-one SEO software offering useful tools such as website crawling, Google rank tracker, backlink checker, continuous monitoring and whitelabel reporting.
 
 ## MobileAPP
 *implement by React Native*
