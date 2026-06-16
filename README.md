@@ -207,6 +207,7 @@ allow_url_include=Off
 
 #### Walmart
 * [walmart API](https://developer.walmart.com/#/apicenter/overview) - Marketplace Sellers: go to http://seller.walmart.com to login to the seller center to get your Consumer ID and Private Key.
+* [Ecommerce Profit Tracker PRO](https://whop.com/glm-643b/ecommerce-profit-tracker-pro-know-your-real-profit) - Spreadsheet-based profit tracker for multichannel sellers on eBay, Amazon, Etsy and Shopify. Calculates true net profit per order after marketplace fees, ad spend and COGS in Excel or Google Sheets.
 
 ## EDI
 * [EDI Github Resources](https://github.com/michaelachrisco/Electronic-Interchange-Github-Resources) - Electronic Interchage Github Resources
