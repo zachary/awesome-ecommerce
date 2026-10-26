@@ -110,6 +110,7 @@ pods \]
 * [ISO 3166](https://github.com/umpirsky/country-list) -  List of all countries with names and ISO 3166-1 codes in all languages and data formats.
 * [BinList](https://github.com/binlist/data) - The first 6 or 8 digits of a payment card number (credit cards, debit cards, etc.) are known as the Issuer Identification Numbers (IIN), previously known as Bank Identification Number (BIN). These identify the institution that issued the card to the card holder.
 * [CCV](https://github.com/PawelDecowski/jquery-creditcardvalidator) - jQuery credit card validation and detection plugin.
+* [Level Ecommerce Financial Benchmarks](https://levelcfo.com/benchmarks/ecommerce/) - Open CSV/JSON datasets for ecommerce cash conversion cycles, return rates, LTV:CAC, and ERP/3PL accounting reconciliation ([GitHub](https://github.com/levelcfo/smb-financial-benchmarks)).
 
 #### HTTPS
 * [free ssl](https://letsencrypt.org/) - Let’s Encrypt is a free, automated, and open Certificate Authority.
