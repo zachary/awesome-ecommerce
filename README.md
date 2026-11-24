@@ -170,6 +170,8 @@ allow_url_include=Off
 #### Google Analytics
 * [Analytify](https://wordpress.org/plugins/wp-analytify/) - Google Analytics Dashboard for WordPress – by Analytify makes simple and complete Google Analytics for everywhere in WordPress (posts, pages and custom post types)
 * [MonsterInsights](https://wordpress.org/plugins/google-analytics-for-wordpress/) - MonsterInsights, a complete Google Analytics for WordPress plugin that’s EASY and POWERFUL.
+* [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) - Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+* [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) - Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter (Apify Actor, API + MCP).
 
 #### SEO Plugins
 * [Redirection](https://wordpress.org/plugins/redirection/) - Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files.
