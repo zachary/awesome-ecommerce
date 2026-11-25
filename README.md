@@ -179,6 +179,7 @@ allow_url_include=Off
 #### SEO Tools
 * [SEO Analyzer](https://github.com/sethblack/python-seo-analyzer) - An SEO tool that analyzes the structure of a site, crawls the site, count words in the body of the site and warns of any general SEO related issues.
 * [Google Trends](https://github.com/pat310/google-trends-api) - An API layer on top of google trends.
+* [Swavent Technical SEO](https://swavent.com/en/services/technical-seo) - Technical SEO services for ecommerce stores.
 
 
 ## MobileAPP
